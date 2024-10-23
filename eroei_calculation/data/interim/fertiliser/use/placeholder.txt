@@ -1,0 +1,2 @@
+From "fabio_fertilizer" folder
+Download "data/results/"fertiliser"/ "use" / "fertiliser_use_reduced.csv"

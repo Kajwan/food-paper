@@ -1,0 +1,2 @@
+Calorie version of FABIO can be provided upon request.
+Otherwise, one can calculate it using the nutrient coefficents provided in the auxiliary folder.
